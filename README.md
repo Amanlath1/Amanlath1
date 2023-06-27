@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif)
+![MasterHead](https://th.bing.com/th?id=OIF.8KZWx%2fTrPy7VPNtt6uZ5pQ&pid=ImgDet&rs=1)
 <h1 align="center">Hi 👋, I'm Aman Lath</h1>
 <h3 align="center">A passionate learner from India</h3>
 
