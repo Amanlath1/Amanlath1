@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aman Lath</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.bing.com/images/search?view=detailV2&ccid=p7tJ7FMU&id=DC0B15903455DFD8521B7BCB8BCD4BF4DC75096C&thid=OIP.p7tJ7FMUu3B7muy3pbNLqQHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f5z0cCCGooBQUtejM4v%2fgiphy.gif&exph=480&expw=480&q=solidity+gifs&simid=608002524483635008&FORM=IRPRST&ck=34F1C8B3903AC8C47041042880B116E2&selectedIndex=56)](https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=p7tJ7FMU&id=DC0B15903455DFD8521B7BCB8BCD4BF4DC75096C&thid=OIP.p7tJ7FMUu3B7muy3pbNLqQHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f5z0cCCGooBQUtejM4v%2fgiphy.gif&exph=480&expw=480&q=solidity+gifs&simid=608002524483635008&FORM=IRPRST&ck=34F1C8B3903AC8C47041042880B116E2&selectedIndex=56">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlath1&label=Profile%20views&color=0e75b6&style=flat" alt="amanlath1" /> </p>
 
