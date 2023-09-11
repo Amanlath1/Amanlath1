@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanlath6" target="blank"><img src="https://img.shields.io/twitter/follow/amanlath6?logo=twitter&style=for-the-badge" alt="amanlath6" /></a> </p>
 
-- 🔭 I’m currently working on [ETH + AVAX PROOF: Intermediate EVM Course](https://github.com/Amanlath1/ETH-AVAX-PROOF)
+- 🔭 I’m currently working on [my portfolio website](https://github.com/Amanlath1/ETH-AVAX-PROOF)
 
 - 🌱 I’m currently learning **Solidity**
 
