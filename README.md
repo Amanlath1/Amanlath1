@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif)
 <h1 align="center">Hi 👋, I'm Aman Lath</h1>
 <h3 align="center">A passionate Tech enthusiast from India</h3>
 
