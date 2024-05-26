@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aman Lath</h1>
 <h3 align="center">A passionate Tech enthusiast from India</h3>
 
-<img align="centre" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/0*VdGSN-BnfkptC63j.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlath1&label=Profile%20views&color=0e75b6&style=flat" alt="amanlath1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanlath1" alt="amanlath1" /></a> </p>
+
+<img align="centre" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/0*VdGSN-BnfkptC63j.gif">
 
 - 🔭 I’m currently working on [CI/CD using Jenkins](https://github.com/Amanlath1/django-notes-app-test-project.git)
 
