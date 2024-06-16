@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/0*VdGSN-BnfkptC63j.gif">
 
-- 🔭 I’m currently working on [CI/CD using Jenkins](https://github.com/Amanlath1/django-notes-app-test-project.git)
+- 🔭 I’m currently working on [Threads of India](https://github.com/Amanlath1/Threads-of-India)
 
 - 🌱 I’m currently learning **React, AWS, Kubernetes**
 
